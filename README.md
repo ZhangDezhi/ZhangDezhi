@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+
+WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: true
+
+
 <!--
 **ZhangDezhi/ZhangDezhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
