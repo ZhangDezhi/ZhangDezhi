@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Image](./Resource/IMG.GIF) 
 
 - 🔭 I’m currently working on ...
 
