@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![ZhangDezhi's github stats](https://github-readme-stats.vercel.app/api?username=ZhangDezhin&show_icons=true?theme=radical)](https://github.com/ZhangDezhi/shortcuts)
+[![ZhangDezhi's github stats](https://github-readme-stats.vercel.app/api?username=ZhangDezhi&show_icons=true?theme=radical)](https://github.com/ZhangDezhi/shortcuts)
 [![ZhangDezhi's github stats](https://github-readme-stats.vercel.app/api?username=ZhangDezhi?theme=radical)](https://github.com/ZhangDezhi/shortcuts)
 - 🔭 I’m currently working on ...
 
