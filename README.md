@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Image](./Resource/IMG.GIF) 
+[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=CodeHaotian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 
