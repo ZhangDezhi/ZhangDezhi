@@ -10,16 +10,19 @@
   - 🏭️ Foxcoon:  
     使用系统: OSX  
     使用编程语言: Objective-C 、 Shell  
+    数据库: 无
     涉及框架: Cocoa、OpenCV、MFC  
 
   - 🌱 Yanmade  :  
     使用系统:   macOS 、Windows  
     使用编程语言: Objective-C 、Python 、Java 、C++  
+    涉及数据库: mysql
     涉及框架: Cocoa、OpenCV、MFC  
 
   - 🚇️ Splendor :  
     使用系统:  RHEL/Windows/HPunix/Solaris  
     使用语言: Qt、 C++ 、 Shell 、Python  
+    涉及数据库:mysql、Oracle
     涉及框架: Qt3、Qt5  
 
 <!--
